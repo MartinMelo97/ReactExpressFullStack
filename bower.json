@@ -1,0 +1,20 @@
+{
+  "name": "react-express-fullstack",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "MartinMelo97 <nitram-210397@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.5.4"
+  }
+}
